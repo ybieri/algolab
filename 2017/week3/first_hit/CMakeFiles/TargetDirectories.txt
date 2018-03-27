@@ -1,0 +1,3 @@
+/home/algolab/week3/first_hit/CMakeFiles/edit_cache.dir
+/home/algolab/week3/first_hit/CMakeFiles/rebuild_cache.dir
+/home/algolab/week3/first_hit/CMakeFiles/first_hit.dir

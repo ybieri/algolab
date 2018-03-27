@@ -1,0 +1,3 @@
+/home/algolab/2018/week3/hiking-maps/CMakeFiles/edit_cache.dir
+/home/algolab/2018/week3/hiking-maps/CMakeFiles/rebuild_cache.dir
+/home/algolab/2018/week3/hiking-maps/CMakeFiles/hiking_maps.dir

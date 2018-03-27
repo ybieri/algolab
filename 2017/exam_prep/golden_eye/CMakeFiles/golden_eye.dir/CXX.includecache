@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/exam_prep/golden_eye/golden_eye.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+climits
+-
+cassert
+-
+boost/graph/adjacency_list.hpp
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+boost/graph/connected_components.hpp
+-
+

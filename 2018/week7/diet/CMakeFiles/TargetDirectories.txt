@@ -1,0 +1,3 @@
+/home/algolab/2018/week7/diet/CMakeFiles/edit_cache.dir
+/home/algolab/2018/week7/diet/CMakeFiles/rebuild_cache.dir
+/home/algolab/2018/week7/diet/CMakeFiles/diet.dir

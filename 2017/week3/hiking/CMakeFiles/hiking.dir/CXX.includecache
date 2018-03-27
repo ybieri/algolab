@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/week3/hiking/hiking.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+iostream
+-
+stdexcept
+-
+vector
+-
+algorithm
+-
+

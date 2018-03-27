@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/2018/week13/worldcup/wordlcup.cpp
+iostream
+-
+bits/stdc++.h
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+CGAL/Gmpz.h
+-
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+
